@@ -7,3 +7,9 @@ Day-1
 5. Get count of placed and not placed student
 6. Search student by the given name
 
+
+Predicate/Stream/
+
+		filter
+		map
+		collect

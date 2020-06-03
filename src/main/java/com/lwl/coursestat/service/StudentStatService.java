@@ -12,4 +12,5 @@ public interface StudentStatService {
 		public long getCount(Predicate<Student> student);
 		public List<Student> search(String str);
 		public PlancementCountDTO getPlacedAndNotPlacedCount();
+		public List<String> allStudentNames();
 }

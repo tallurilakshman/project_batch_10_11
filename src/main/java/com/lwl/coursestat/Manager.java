@@ -15,7 +15,7 @@ public class Manager {
 		
 		StudentStatService service = new StudentStatServiceImpl();
 		
-		long count = service.getCount( (student)->student.getPlacedStatus().equals(PlacedStatus.Y));
+		long count = service.getCount( (student)->student.getPlacedStatus().equals(PlacedStatus.N));
 		System.out.println(count);
 		
 	}

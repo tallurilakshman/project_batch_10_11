@@ -39,4 +39,10 @@ public class StudentStatServiceImpl implements StudentStatService {
 		return null;
 	}
 
+	@Override
+	public List<String> allStudentNames() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

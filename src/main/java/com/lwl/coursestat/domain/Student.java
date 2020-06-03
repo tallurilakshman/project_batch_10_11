@@ -1,5 +1,4 @@
 package com.lwl.coursestat.domain;
-
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
@@ -18,5 +17,4 @@ public class Student {
 	private PlacedStatus placedStatus;
 	private String degree;
 	private float score;
-
 }

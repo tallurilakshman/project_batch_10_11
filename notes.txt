@@ -1,4 +1,4 @@
-Day -1 && 2
+Day-1
 
 1. Get all students whose qualification is BE/MCA/BSC
 2. Get count of all the students by qualification
@@ -12,58 +12,7 @@ Predicate/Stream/
 
 		filter
 		map
-	    collect
-
-
-Lambda:
-
-	Functional interface : 
-		Interface with single abstract method is called functional interface
- 	
-
-
+	        collect
 
 JSON:
 
-	JSON or JavaScript Object Notation is a lightweight text-based open standard designed for human-readable data interchange.
-	
-1. The filename extension is .json.
-2. JSON Internet Media type is application/json.
-3. It is primarily used to transmit data between a server and web applications.
-
-
-
-JSON -> Java
-
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-databind</artifactId>
-			<version>2.9.8</version>
-		</dependency>
-		<dependency>
-			<groupId>com.fasterxml.jackson.datatype</groupId>
-			<artifactId>jackson-datatype-jsr310</artifactId>
-			<version>2.11.0</version>
-		</dependency>
-
-
-1. Load JSON
-2. Start Test 
-   2.1 Show all Questions and collect user answers
-   2.2 Show Result ( Score %, Questions correct count: ?, Questions Wrong Count : ?)
-   
-   
-
-Json Date:
-
-@JsonDeserialize(using = LocalDateDeserializer.class)
-@JsonSerialize(using = LocalDateSerializer.class)
-
-
-
-
-Day -3:
-	    
-
-Samaple:
-	

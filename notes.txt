@@ -16,3 +16,43 @@ Predicate/Stream/
 
 JSON:
 
+
+
+-------------------------------------------------------------------------------
+
+Dept 
+Employee
+
+
+
+
+Schema Design(MySQL)
+
+
+SQL
+	DDL,DML,DQL,TCL,DCL
+	
+	CURD
+	JOIN
+	GROUP FUNCTION
+	DATE
+	
+JDBC
+
+	
+
+1. Load all json data into DB ( Emplist, Dept)
+2. Write all quires instead in-memory 
+
+
+JUNIT - 5 
+
+
+Statement
+PreparedStatement
+CallableStatement  (Stored Procedure, Function) 
+
+Batch statement
+Transaction ( begin, commit ) 
+
+
